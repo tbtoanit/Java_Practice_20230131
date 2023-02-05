@@ -6,6 +6,7 @@ public class Animal {
 
     public void eat(){
         System.out.print("Animal Eat!!!");
+        //adding a new code
     }
 
 }
