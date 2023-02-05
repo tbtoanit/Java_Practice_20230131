@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class VongLapWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhập 'yes' nếu bạn muốn thoát chương trình: ");
+        System.out.println("Press 'yes' if you want to exit the program ");
         String existFlag = "no";
 
 //        while(true){
