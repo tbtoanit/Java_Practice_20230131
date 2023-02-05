@@ -8,6 +8,6 @@ public class App {
         m.inMonHoc();
         d.inMonHoc();
 
-        m.inMonHoc("Toan");
+        m.inMonHoc("Toan");   //abc
     }
 }
