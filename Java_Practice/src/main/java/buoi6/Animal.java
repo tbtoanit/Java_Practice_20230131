@@ -8,4 +8,9 @@ public class Animal {
         System.out.print("Animal Eat!!!");
     }
 
+
+    public static void VietTestB6(){
+        System.out.println("Test      20230205");
+    }
+
 }
