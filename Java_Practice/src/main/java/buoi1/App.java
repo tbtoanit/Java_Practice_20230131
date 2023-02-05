@@ -11,7 +11,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is my line");
-        //làm 1 tính năng mới
+        //làm them 1 tính năng mới
     }
 
 }

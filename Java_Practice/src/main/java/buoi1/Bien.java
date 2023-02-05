@@ -31,7 +31,7 @@ public class Bien {
         boolean lopPythonPhaiKhong = false;
 
         // Kiểu dữ liệu array
-        int[] dsSN = {1,2,4,6,7};
+        int[] dsSN = {1,2,4,6,7,9};
         char[] dsKT = {'c','h','a'};
 
         System.out.println(dsSN[4]);
