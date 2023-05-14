@@ -4,6 +4,7 @@ public class BaiTap {
     public static void main(String[] args) {
         String[] members = {"Nguyen Van Hong", "Tran Quang Hai", "Tran Bao Toan"};
         System.out.println(qtyMemberNameByH(members));
+        int a = 10; //hieu test
     }
     /*
      * Bai 03: Cho danh sách họ tên đầy đủ học sinh, hãy đếm xem có bao nhiêu bạn có tên bắt đầu bằng chữ “H”.

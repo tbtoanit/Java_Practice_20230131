@@ -13,7 +13,7 @@ public class BaiTapVeNha {
         float b = Float.parseFloat(sc.nextLine());
         float x = -b/a;
         System.out.println("Nghiệm của phương trình bậc 1 với x là: "+ x);
-
+        System.out.println("Chương trình đã thực hện xong - TRAN QUY");
     }
 
     public static void giaiPhuongTrinhBac2(){
