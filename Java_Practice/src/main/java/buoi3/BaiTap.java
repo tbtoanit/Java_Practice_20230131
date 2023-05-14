@@ -4,6 +4,10 @@ public class BaiTap {
 
     public static void main(String[] args) {
         inPhanTuChan();
+
+        //Huy test
+        int a = 2;
+        System.out.println(a);
     }
 
     public static void tinhTong() {
