@@ -8,7 +8,7 @@ public class Bien {
         //Biến cục bộ, bởi vì được khai báo trong hàm main
         int x = 10; //khai báo biến x = 10, lưu trữ trong bộ nhớ trong RAM
         int y = 20;
-        int z = x+y;
+        int z = x+y; //
         myFunction();
         System.out.println(z);
         //Bien.pi = 3.15; // hằng số không thể thay đổi
